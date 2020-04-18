@@ -22,7 +22,7 @@ class HClust {
       },
       'leafs': {
         'show': true,
-        'size': 5
+        'size': '5px'
       }
     }
   }
